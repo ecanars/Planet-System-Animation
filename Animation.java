@@ -3,7 +3,7 @@ import java.awt.*;
 import java.awt.event.*;
 
 
-public class test {
+public class Animation {
     
     public static JComponent planetsComponent;
 
